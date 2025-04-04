@@ -10,5 +10,6 @@ package guiarepository;
  */
 public class NewClass2 {
     int numero;
+    String nombre;
     
 }
