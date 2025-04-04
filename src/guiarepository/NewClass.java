@@ -8,6 +8,7 @@ public class NewClass {
         
         String nombre;
         int edad;
+        System.out.println("hola");
         
     }
     
